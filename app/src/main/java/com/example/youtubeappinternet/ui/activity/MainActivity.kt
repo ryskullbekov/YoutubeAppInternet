@@ -3,12 +3,8 @@ package com.example.youtubeappinternet.ui.activity
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import androidx.fragment.app.FragmentActivity
-import androidx.lifecycle.Observer
-import com.example.youtubeappinternet.R
-import com.example.youtubeappinternet.data.network.Connect.ConnectivityLiveData
+import com.example.youtubeappinternet.data.network.checkinternet.ConnectivityLiveData
 import com.example.youtubeappinternet.databinding.ActivityMainBinding
-import kotlinx.android.synthetic.main.activity_main.*
 
 
 class MainActivity : AppCompatActivity() {

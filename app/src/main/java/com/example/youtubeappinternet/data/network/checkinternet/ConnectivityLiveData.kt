@@ -1,4 +1,4 @@
-package com.example.youtubeappinternet.data.network.Connect
+package com.example.youtubeappinternet.data.network.checkinternet
 
 import android.app.Application
 import android.content.Context
